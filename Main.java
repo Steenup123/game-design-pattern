@@ -1,7 +1,7 @@
 // Classe principale du programme
 public class Main {
     public static void main(String[] args) {
-        // Création du jeu avec une taille de 10x10
+        // Création du jeu avec une taille de 20x20
         Game game = new Game(20, 20);
 
         // Ajouter les entités (bâtiments, unités, etc.) au jeu
